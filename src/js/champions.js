@@ -10,5 +10,5 @@ constructor(data) {
     this.role = data.tags[0];
     this.playstyle = data.tags[1];
     this.stats = data.stats;
-}
+    }
 }
